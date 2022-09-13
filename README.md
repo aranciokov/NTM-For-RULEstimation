@@ -1,6 +1,6 @@
 # Neural Turing Machines for the Remaining Useful Life estimation problem
 
-This repository contains the code accompanying the paper "*Neural Turing Machines for the Remaining Useful Life estimation problem*", accepted for publication in **Computers In Industry**.
+This repository contains the code accompanying the paper "*[Neural Turing Machines for the Remaining Useful Life estimation problem](https://www.sciencedirect.com/science/article/pii/S0166361522001592)*", accepted for publication in **Computers In Industry**.
 
 #### Python environment
 Requirements: python 3, torch 1.3.0 (also tested with 1.7), sklearn 0.24.1, matplotlib 3.3.2, numpy 1.19.5, pandas 1.3.5, tensorboardX 2.2 (should work fine with tensorboard 2.4.1 contained in torch)
