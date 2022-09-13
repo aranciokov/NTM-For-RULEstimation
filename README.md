@@ -36,7 +36,7 @@ python rul_estimate_turbofan_NTM_MSE_Journal_FitFull.py \
   --scenario FD001 \
   --batchsize 100 \
   --max_rul 130 \
-  --max_epochs 100 \
+  --max_epochs 250 \
   --lr 1e-3 \
   --use_decaylr f \
   --scaler standard \
